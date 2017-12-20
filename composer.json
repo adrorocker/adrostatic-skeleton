@@ -2,8 +2,18 @@
     "name": "adrorocker/adrostatic-skeleton",
     "description": "My personal site",
     "type": "project",
+    "homepage": "https://github.com/adrosorocker/adrostatic-skeleton",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Adro Rocker",
+            "email": "me@adro.rocker",
+            "homepage": "https://github.com/adrorocker"
+        }
+    ],
     "require": {
         "adrorocker/adrostatic": "^0.1.0"
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "stable",
+    "prefer-stable": true
 }
