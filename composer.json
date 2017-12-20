@@ -1,0 +1,9 @@
+{
+    "name": "adrorocker/adrostatic-skeleton",
+    "description": "My personal site",
+    "type": "project",
+    "require": {
+        "adrorocker/adrostatic": "^0.1.0",
+    },
+    "minimum-stability": "stable"
+}
